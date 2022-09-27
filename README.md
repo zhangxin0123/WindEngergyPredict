@@ -1,2 +1,2 @@
 # WindEngergyPredict
-Group Project of predicting wind energy in ireland with weather data and eletricity capacity. 
+Group Project of using machine learning predicting wind energy in ireland with data from 'Ireland Weather' and 'Installed Wind Capacity-Ireland'
